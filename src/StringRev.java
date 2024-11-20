@@ -5,7 +5,7 @@ public class StringRev {
         System.out.println(a);
         char ch, ch2;
         for (int i = 0; i < word.length(); i++) {
-            ch = word.charAt(i);
+            ch = word.charAt(i);//chartAt is used to count the index of the given string.
             rstr = ch + rstr; //neevaN
         }
         System.out.println("reverse string = " + rstr);
