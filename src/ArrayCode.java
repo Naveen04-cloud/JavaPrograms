@@ -38,8 +38,6 @@ public class ArrayCode {
         for(int i=0;i<=5;i++){
             num.add(i);
 
-
-
         }
 
     }
